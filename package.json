@@ -1,0 +1,17 @@
+{
+  "name": "urlshortner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.1",
+    "mongoose": "^8.2.3",
+    "nodemon": "^3.1.0",
+    "short-unique-id": "^5.0.3"
+  }
+}
